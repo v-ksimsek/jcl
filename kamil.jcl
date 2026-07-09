@@ -1,5 +1,4 @@
-dsajdjsadj
-sajdsa
+dkaskdaskdksadka
 
 //OUTFILE  DD DSN=USER.TEST.DATA,
 //         DISP=(NEW,CATLG,DELETE),
