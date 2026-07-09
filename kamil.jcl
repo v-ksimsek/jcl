@@ -1,10 +1,5 @@
-//MYJOB    JOB (12345),'AHMET YILMAZ',
-//         CLASS=A,
-//         MSGCLASS=X,
-//         MSGLEVEL=(1,1),
-//         NOTIFY=&SYSUID
-
-//STEP01   EXEC PGM=IEFBR14
+dsajdjsadj
+sajdsa
 
 //OUTFILE  DD DSN=USER.TEST.DATA,
 //         DISP=(NEW,CATLG,DELETE),
