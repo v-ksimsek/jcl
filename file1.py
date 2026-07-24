@@ -6,3 +6,15 @@ ksad
 ksa
 kd
 //yorum
+
+
+as
+dsa
+a
+sdsa
+da
+as
+d
+as
+
+
