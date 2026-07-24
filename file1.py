@@ -1,24 +1,3 @@
-//flksadşasşkdşalksdşlksaşlkdsaşlkdşlksadşlka
-djsa
-dsa
-kd
-ksad
-ksa
-kd
-//yorum
-
-
-
-
-da
-sda
-
-
-// my codes
-
-
-
-
 asda
 sd
 asd
